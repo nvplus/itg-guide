@@ -48,11 +48,20 @@ An annual stamina event where players can earn EXP, unlock new songs, and buy re
 
 A sister event to ECS that happens after the mainline tournament and before Stamina RPG. Players can form teams of up to three people and compete in a similar format to the mainline ECS events.
 
+### East Coast FA (ECFA)
+[<img src="https://ddrcommunity.com/wp-content/uploads/2019/05/ECFA6-bn.png" height=100px/>](https://ddrcommunity.com/events/east-coast-fa-6/)
+
+An annual FA/tech tournament held at RiOdO's house. 
+
 ### Everybody Can Fantastic Attack (ECFA)
 [<img src="https://lh3.googleusercontent.com/5lc3COK5ONZzNU1U2_5kjEdi1NTDQ5TtfP9eXSDCR7uZ06w1kzh4653txliQN0q0gxcQRnX5isE1Ozlw0Q5fP0tQ2KO9JOg9TH21XbQFzNYRmVqxlzSUuwbYPDjCn5l_3A=w1280" height=100px/>](https://sites.google.com/view/ecfa-2021/)
 
-Annual online accuracy event featuring FA/tech charts.
+An online accuracy event featuring FA/tech charts. Shares an acronym with East Coast FA, its sister tournament.
 
+### Girls Coast Stamina
+[<img src="https://pbs.twimg.com/media/EUKIj1wXsAETv8W?format=jpg&name=small" height=100px/>](https://twitter.com/thegalagaship/status/1243706599253987333)
+
+An online womens only stamina tournament.
 
 ## What pad do I buy?
 
@@ -63,7 +72,7 @@ Dom has made a great video listing and reviewing many different pads.
  - [L-TEK](https://www.maty-taneczne.pl/)
 	 - Affordable hard pads, great for all around play. Suffers from weak arrow panels.
 	 - The stock PCB only polls at 125 Hz, which makes timing more difficult. You can mitigate this by doing the [Arduino mod](https://www.instructables.com/Modifying-an-L-tek-Dance-Pad-to-Poll-at-1000hz-on-/) to make it poll at 1000 Hz.
-	 - Do the [penny mod](https://youtu.be/hLlBETbFACA) for additional sensitivity, 
+	 - Do the [penny mod](https://youtu.be/hLlBETbFACA) for additional sensitivity.
 	 - The optional bar is not worth the money, it is wobbly and expensive. See [Roujo's bar building guide](https://roujo.toepi.moe/dance/bar-building-guide) on how to build your own for much cheaper.
  - [StepManiaX](https://stepmaniax.com/)
 	 - These are high-end, arcade-grade pads but are extremely difficult to get due to low supply and high demand.
