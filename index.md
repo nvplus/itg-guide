@@ -195,7 +195,7 @@ Jeremy made a great video explaining this.
 TL;DR:
 - Turning off decents and way offs trivializes the lifebar by removing the "mash prevention" windows.
 - If you're going for score, this isn't a big deal because your lifebar isn't relevant and the boys are more likely to be triggered by a malfunctioning pad.
-- If you're trying to pass the hardest songs you can, the boys are likely going to be triggered by player error such as bad form or timing. Keep the boys on retains the inherent mash prevention mechanics of the game.
+- If you're trying to pass the hardest songs you can, the boys are likely going to be triggered by player error such as bad form or timing. Keeping the boys on retains the inherent mash prevention mechanics of the game.
 
 ### What is the "spreadsheet" in stamina?
 
