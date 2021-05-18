@@ -121,9 +121,9 @@ This is a pad that 4199 made out of parts he had laying around. It's probably aw
 Take a piece of plywood, slap some FSR's on it and call it a day. [yutsi](https://www.youtube.com/watch?v=mskaXrFsebA) is a stamina player who uses one of these and is able to pass 20's on it.
 
 **Other pads I don't know much about:**
- - Dom has a [ten-part video series](https://www.youtube.com/playlist?list=PL2vUwLUVuyIy4CD8DEwS7oZ_Y41vyYWWy) on how he built a custom pad using used arcade parts. 
+ - Dom has a [ten-part video series](https://www.youtube.com/playlist?list=PL2vUwLUVuyIy4CD8DEwS7oZ_Y41vyYWWy) on how he built a custom pad with used arcade parts. 
  - [Re:Flex pads](https://reflex.dance/) are an open source, arcade-grade pad created by Brittany.
- - [Mystic pads](https://docs.google.com/document/d/1mb6kjM13b7gjBU2B5ZLw1kvVDJ5bW0qdI1sw27WHaKk/edit?usp=sharing) are also an open source, arcade-grade pad made by Mystic aimed to cost around ~$1000.
+ - [Mystic pads](https://docs.google.com/document/d/1mb6kjM13b7gjBU2B5ZLw1kvVDJ5bW0qdI1sw27WHaKk/edit?usp=sharing) are also an open source, arcade-grade pad made by Ashley aimed to cost around ~$1000.
 
 ## Pad Modding for Arcade Pads
 
@@ -134,6 +134,13 @@ If you find yourself getting caught on the big, bulky screws on the dance pad th
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j1RiTrTW0-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Another, simpler option is to simply remove your inner brackets and screws and attach your centre panel using double sided tape. This is incredibly lazy, but doesn't require you to use power tools or buy new screws.
+
+### Bracketless conversions
+<iframe width="560" height="315" src="https://www.youtube.com/embed/anB_ZMZWBUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Ashley P. sells kits to convert your pad to her bracketless panels, so you can do away with brackets all together.
+
+To buy these, join her [Facebook group](https://www.facebook.com/groups/777175613046481/) then DM her or Adam Kirby to let you in. She also sells replacement DDR panels in this Facebook group.
 
 ### Using tape for increased sensitivity on arcade sensors
 <img src="https://cdn.discordapp.com/attachments/591858300790767616/844251013955453018/103312533_285655112629603_214532263864403830_n.png" height=300px/>
