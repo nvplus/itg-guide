@@ -1,6 +1,5 @@
-
-
 # ITG Resource Guide & FAQ
+<img src="https://camo.githubusercontent.com/d4b0b5c3756bd5f6ae15d05992822186e645b75fae70e7bb3846be1a8e864a4d/687474703a2f2f692e696d6775722e636f6d2f6331477a764b582e6a7067" height=400px/>
 
 There are a lot of great informational resources scattered around the ITG community and I wanted to throw them onto one page.
 
