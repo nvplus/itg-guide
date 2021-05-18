@@ -14,18 +14,24 @@ Few play the original ITG arcade games anymore, and the game has mostly moved to
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4TYDEJOr6uI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+*Video credit: Vincent N.*
+
 ###  Stamina/Footspeed
 Stamina players attempt to pass the hardest songs they can, which mostly feature long, unbroken 16th note streams. Think MAX 300, but for 10 minutes straight.
 
 Footspeed is a subgenre of stamina charts where the runs are shorter, but go up to ridiculous speeds. The best players have passed songs that have runs of up to 23 notes per *second*.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i0v1iwdHUic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kqi8Z0w0hHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Video credit: Vincent N.*
 
 ### Stamina FA
 
 StamFA players try to get perfect scores on stamina-oriented songs.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fHZ8_8rbCqI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Video credit: Bran*
 
 ## Installing ITG
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4ni-0b6fbCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
