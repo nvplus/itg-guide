@@ -13,11 +13,8 @@ There are several playstyles of ITG:
 - Stamina/Footspeed
 
 ## What pad do I buy?
-Dom has made a great video listing and reviewing many different pads: https://www.youtube.com/watch?v=sEWj2_BNG_0
-
-[
-![Dom](https://i.ytimg.com/vi/sEWj2_BNG_0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFWWH1f-IMf-ZtPrkP_5wtXARFtQ)
-](https://www.youtube.com/watch?v=sEWj2_BNG_0)
+Dom has made a great video listing and reviewing many different pads.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sEWj2_BNG_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **TL;DR**
  - [L-TEK](https://www.maty-taneczne.pl/)
