@@ -30,6 +30,29 @@ There are several playstyles of ITG:
 - [Simply Fantasy](https://github.com/jordando/Simply-Love-Tweaks/tree/fantasy) - A Simply Love mod by Poog which makes it look like the older Final Fantasy games. Only works on Simply Love 4.91 or below.
 - [GrooveNights SM5](https://github.com/JoseVarelaP/SM5-GrooveNights) -  Recreation of the classic 3.95 theme in SM5.
 
+## Tournaments/Events
+There are various tournaments and events run year-round in the ITG community where you can compete with others around the world.
+
+### East Coast Stamina (ECS) - Mainline
+[<img src="https://ecs9.groovestats.com/img/ecs9logosmall.png" height=70px />](https://ecs9.groovestats.com/)
+
+An annual stamina tournament, consisting of a four-hour "raw output" set and a marathon. Players can choose to participate in the lower division (11-18), mid division (18-23), and upper division (23+).
+
+### Stamina RPG
+[<img src="https://ecs9.groovestats.com/img/srpg4logo.png" height=100px />](https://srpg4.groovestats.com/)
+
+An annual stamina event where players can earn EXP, unlock new songs, and buy relics for ECS. The event also acts as a qualifier for the mainline East Coast Stamina tournaments.
+
+### East Coast Stamina (ECS) - 0.5
+[<img src="https://ecs95.groovestats.com/img/logo_95.png" height=70px/>](https://ecs95.groovestats.com/)
+
+A sister event to ECS that happens after the mainline tournament and before Stamina RPG. Players can form teams of up to three people and compete in a similar format to the mainline ECS events.
+
+### Everybody Can Fantastic Attack (ECFA)
+[<img src="https://lh3.googleusercontent.com/5lc3COK5ONZzNU1U2_5kjEdi1NTDQ5TtfP9eXSDCR7uZ06w1kzh4653txliQN0q0gxcQRnX5isE1Ozlw0Q5fP0tQ2KO9JOg9TH21XbQFzNYRmVqxlzSUuwbYPDjCn5l_3A=w1280" height=100px/>](https://sites.google.com/view/ecfa-2021/)
+
+Annual online accuracy event featuring FA/tech charts.
+
 
 ## What pad do I buy?
 
