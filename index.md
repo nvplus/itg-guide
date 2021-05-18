@@ -4,14 +4,29 @@
 There are a lot of great informational resources scattered around the ITG community and I wanted to throw them onto one page.
 
 ## What is In The Groove (ITG) in 2021?
-Originally, [In the Groove](https://en.wikipedia.org/wiki/In_the_Groove_(video_game)) (ITG) was a 4-panel dance game created by Roxor Games based on the earlier (and much more popular) Dance Dance Revolution (DDR) game by Konami. ITG ran on a modified Stepmania 3.95 engine (an open source clone of DDR) and introduced features such as mines and hands and support for "mod charts". ITG was sold as a PS2 game, an upgrade kit for existing DDR cabinets, and as an ITG dedicated cabinet (dedicab). Shortly after ITG gained popularity, it got into [legal trouble](https://en.wikipedia.org/wiki/Konami_Corp._v._Roxor_Games_Inc.) with Konami and it went away in an official capacity. At this point in time, people refer to people who play Stepmania on a pad (as opposed to a keyboard) as "ITG".
+Originally, [In the Groove](https://en.wikipedia.org/wiki/In_the_Groove_(video_game)) (ITG) was a 4-panel dance game created by Roxor Games based on the earlier (and much more popular) Dance Dance Revolution (DDR) game by Konami. ITG ran on a modified Stepmania 3.95 engine (an open source clone of DDR) and introduced features such as mines and hands and support for "mod charts". ITG was sold as a PS2 game, an upgrade kit for existing DDR cabinets, and as an ITG dedicated cabinet (dedicab). Shortly after ITG gained popularity, it got into [legal trouble](https://en.wikipedia.org/wiki/Konami_Corp._v._Roxor_Games_Inc.) with Konami and it went away in an official capacity.
 
-Few play the original arcade games anymore, and the game has mostly moved to the home audience especially after the pandemic. Modern "ITG" is considered as Stepmania 5 or OpenITG running a theme such as [Simply Love](https://github.com/Simply-Love/Simply-Love-SM5), [Digital Dance](https://github.com/Hayoreo/Digital-Dance), or [Waterfall](https://twitter.com/SteveReen/status/1392057636518973442) using ITG's original lifebar and scoring mechanics.
+Few play the original ITG arcade games anymore, and the game has mostly moved to the home audience, especially after the pandemic. Modern "ITG" is considered as Stepmania 5 or OpenITG running a theme such as [Simply Love](https://github.com/Simply-Love/Simply-Love-SM5), [Digital Dance](https://github.com/Hayoreo/Digital-Dance), or [Waterfall](https://twitter.com/SteveReen/status/1392057636518973442) using ITG's original lifebar and scoring mechanics.
+## The different playstyles of ITG
 
-There are several playstyles of ITG:
-- FA
-- Tech
-- Stamina/Footspeed
+### Tech/Fantastic Attack (FA)
+ FA players try to get scores on charts that feature technical patterns like crossovers, brackets, and footswitches. It's very similar to DDR, but has unique patterns that Konami seldom puts in their charts.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4TYDEJOr6uI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+###  Stamina/Footspeed
+Stamina players attempt to pass the hardest songs they can, which mostly feature long, unbroken 16th note streams. Think MAX 300, but for 10 minutes straight.
+
+Footspeed is a subgenre of stamina charts where the runs are shorter, but go up to ridiculous speeds. The best players have passed songs that have runs of up to 23 notes per *second*.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i0v1iwdHUic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Stamina FA
+
+StamFA players try to get perfect scores on stamina-oriented songs.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHZ8_8rbCqI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Installing ITG
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4ni-0b6fbCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -21,6 +36,8 @@ There are several playstyles of ITG:
 3. Switch to the theme in the "Appearance" section in the Stepmania options
 4. You now have ITG!
 
+I have not personally used it before, but the [Club Fantastic Installer](https://wiki.clubfantastic.dance/) will set up Stepmania 5 for you with the Club Fantastic theme + base song pack.
+
 **Some places to get songs**
 - [The ITG packs release spreadsheet](http://itgpacks.com/) - Tracks all the latest ITG pack releases
 - [ZiV's simfile page](https://zenius-i-vanisher.com/v5.2/simfiles.php) - DDR converts + some others
@@ -28,6 +45,7 @@ There are several playstyles of ITG:
 **Other Themes**
 - [DDR XX Starlight](https://zenius-i-vanisher.com/v5.2/thread?threadid=10433) - Custom a fanmade DDR theme. Uses DDR timing and lifebar mechanics.
 - [Simply Fantasy](https://github.com/jordando/Simply-Love-Tweaks/tree/fantasy) - A Simply Love mod by Poog which makes it look like the older Final Fantasy games. Only works on Simply Love 4.91 or below.
+- [Club Fantastic](https://wiki.clubfantastic.dance/) - Fan project/theme with original, royalty-free music.
 - [GrooveNights SM5](https://github.com/JoseVarelaP/SM5-GrooveNights) -  Recreation of the classic 3.95 theme in SM5.
 
 ## Tournaments/Events
@@ -56,7 +74,7 @@ An annual FA/tech tournament held at RiOdO's house.
 ### Everybody Can Fantastic Attack (ECFA)
 [<img src="https://lh3.googleusercontent.com/5lc3COK5ONZzNU1U2_5kjEdi1NTDQ5TtfP9eXSDCR7uZ06w1kzh4653txliQN0q0gxcQRnX5isE1Ozlw0Q5fP0tQ2KO9JOg9TH21XbQFzNYRmVqxlzSUuwbYPDjCn5l_3A=w1280" height=100px/>](https://sites.google.com/view/ecfa-2021/)
 
-An online accuracy event featuring FA/tech charts. Shares an acronym with East Coast FA, its sister tournament.
+An online accuracy event featuring FA/tech charts. Shares an acronym with East Coast FA, its sister tournament. Also acts as a qualifier for East Coast FA.
 
 ### Girls Coast Stamina
 [<img src="https://pbs.twimg.com/media/EUKIj1wXsAETv8W?format=jpg&name=small" height=100px/>](https://twitter.com/thegalagaship/status/1243706599253987333)
