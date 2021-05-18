@@ -40,8 +40,6 @@ There are also great DIY pad options available which I will cover in a different
 ## DIY Pads
 Lately, there have been tons of advancements in DIY pad building and people have made affordable pads that are easy to build and perform well.
 
-In order of price:
-
 **4199's Epic Velostat Pad (~$20)**
 
 ![!4199's pad](https://i.ytimg.com/vi/h3qDn847Iio/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJ-_obv35i-e43KpktNzxSe1ANHQ)
