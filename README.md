@@ -46,17 +46,13 @@ In order of price:
 
 ![!4199's pad](https://i.ytimg.com/vi/h3qDn847Iio/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJ-_obv35i-e43KpktNzxSe1ANHQ)
 
-This is a pad that 4199 made out of parts he had laying around. It's probably awful to play on but hella cheap and [he managed to pass a 20 on it, somehow.](https://youtu.be/9uK49TieQUQ)
-
-Watch his on guide on building one [here](https://youtu.be/h3qDn847Iio).
+This is a pad that 4199 made out of parts he had laying around. It's probably awful to play on but hella cheap and [he managed to pass a 20 on it, somehow.](https://youtu.be/9uK49TieQUQ) Watch his on guide on building one [here](https://youtu.be/h3qDn847Iio).
 
 **Plywood FSR Travel Pad (~$100)**
 
 ![Bandit's pad](https://i.ytimg.com/vi/y6wGYLE0YI4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpNh0yAZkWAYPRqQobuIOAxCYL0g)
 
-Take a piece of plywood, slap some FSR's on it and call it a day. [yutsi](https://www.youtube.com/watch?v=mskaXrFsebA) is a stamina player who uses one of these and is able to 20's on it.
-
-Watch Bandit's guide on how to [Build This Pad.](https://youtu.be/y6wGYLE0YI4)
+Take a piece of plywood, slap some FSR's on it and call it a day. [yutsi](https://www.youtube.com/watch?v=mskaXrFsebA) is a stamina player who uses one of these and is able to 20's on it. Watch Bandit's guide on how to [Build This Pad.](https://youtu.be/y6wGYLE0YI4)
 
 **Other pads I don't know much about:**
  - Dom has a [ten-part video series](https://www.youtube.com/playlist?list=PL2vUwLUVuyIy4CD8DEwS7oZ_Y41vyYWWy) on how he built a custom pad using used arcade parts. 
