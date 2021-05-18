@@ -1,3 +1,6 @@
+
+https://nvplus.github.io/itg-guide/
+
 # ITG Resource Guide & FAQ
 
 There are a lot of great informational resources scattered around the ITG community and I wanted to throw them onto one page.
@@ -13,8 +16,11 @@ There are several playstyles of ITG:
 - Stamina/Footspeed
 
 ## What pad do I buy?
-Dom has made a great video listing and reviewing many different pads.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sEWj2_BNG_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Dom has made a great video listing and reviewing many different pads: https://www.youtube.com/watch?v=sEWj2_BNG_0
+
+[
+![Dom](https://i.ytimg.com/vi/sEWj2_BNG_0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFWWH1f-IMf-ZtPrkP_5wtXARFtQ)
+](https://www.youtube.com/watch?v=sEWj2_BNG_0)
 
 **TL;DR**
  - [L-TEK](https://www.maty-taneczne.pl/)
@@ -71,7 +77,7 @@ Arvin's guide: https://pastebin.com/5gRirFNQ
 
 There are many drop-in solutions for converting your arcade dance pad to USB. The best option in my opinion is TJ's STAC Board, which converts your pad to USB and also keeps light support.
 
-Buy one here for ~$80: https://icedragon.io/stac/
+Buy one here for ~$80: [https://icedragon.io/stac/](https://icedragon.io/stac/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fDixsWEMUeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -84,9 +90,11 @@ Many people have been converting their pads to FSR's, which are analog sensors y
 
 There is a fair amount of technical knowledge required for FSR modding, and if you don't want to deal with it then I would suggest sticking to arcade sensors.
 
-Text guide written by VincentITG: https://github.com/vlnguyen/itg-fsr
-teejusb's FSR code: https://github.com/teejusb/fsr
+Text resources:
+- Vincent's [hardware setup guide](https://github.com/vlnguyen/itg-fsr/tree/master/fsr) 
+- teejusb's [software guide and code](https://github.com/teejusb/fsr)
 
+Video resources:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MMHOwjYUisU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uB9hqS_yGLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
