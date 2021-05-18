@@ -1,6 +1,4 @@
 
-https://nvplus.github.io/itg-guide/
-
 # ITG Resource Guide & FAQ
 
 There are a lot of great informational resources scattered around the ITG community and I wanted to throw them onto one page.
@@ -14,31 +12,42 @@ There are several playstyles of ITG:
 - FA
 - Tech
 - Stamina/Footspeed
+## Installing ITG
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4ni-0b6fbCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**TL;DR**
+1. Download and install [Stepmania 5.0.12](https://www.stepmania.com/download/), [Stepmania 5.1 Beta 2](https://www.stepmania.com/forums/news/show/62871), or [ Project Outfox 5.3 Beta](https://projectmoon.dance/)
+2. Get [Simply Love](https://github.com/Simply-Love/Simply-Love-SM5), [Digital Dance](https://github.com/Hayoreo/Digital-Dance), or [Waterfall](https://twitter.com/SteveReen/status/1392057636518973442) and put them in Stepmania's Themes folder
+3. Switch to the theme in the "Appeance" section in the Stepmania options
+4. You now have ITG!
+
+**Song resources**
+- [http://itgpacks.com/](http://itgpacks.com/)
+- [https://zenius-i-vanisher.com/v5.2/simfiles.php](https://zenius-i-vanisher.com/v5.2/simfiles.php)
 
 ## What pad do I buy?
-Dom has made a great video listing and reviewing many different pads: https://www.youtube.com/watch?v=sEWj2_BNG_0
 
-[
-![Dom](https://i.ytimg.com/vi/sEWj2_BNG_0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFWWH1f-IMf-ZtPrkP_5wtXARFtQ)
-](https://www.youtube.com/watch?v=sEWj2_BNG_0)
+Dom has made a great video listing and reviewing many different pads.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sEWj2_BNG_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **TL;DR**
  - [L-TEK](https://www.maty-taneczne.pl/)
-	 - Affordable hard pads, great  for all around play.
+	 - Affordable hard pads, great for all around play.
+	 -  Suffers from weak arrow panels and low 125 Hz polling rate, which makes timing more difficult.
 	 - Do the [penny mod](https://youtu.be/hLlBETbFACA) for additional sensitivity.
 	 - The optional bar is not worth the money, it is wobbly and expensive. See [Roujo's bar building guide](https://roujo.toepi.moe/dance/bar-building-guide) on how to build your own for much cheaper.
  - [StepManiaX](https://stepmaniax.com/)
 	 - These are high-end, arcade-grade pads but are extremely difficult to get due to low supply and high demand.
-	 - If you play stamina, you might run into issues with triggering accidental decents/way offs ("the boys").
-	 - Don't buy the earlier generation pads using the load cell sensors, they suck. Go for the newer ones that have FSR sensors.
+	 - If you play stamina, you might run into issues with triggering accidental decents/way offs ("the boys") due to the square arrow panels.
+	 - These pads originally came with load cell sensors, which were unreliable and prone to breakage. Fourth generation and newer SMX pads use FSR sensors, which are much better than the load cells.
  -  Purchasing an arcade machine/pads is usually the best option if you can find one.
 	 - Search Craigslist, arcade buy/sell Facebook groups, Kijiji, etc.
 	 - Cabs can be converted to Stepmania fairly easily, see [JeffreyATW's Guide](https://jeffreyatw.com/blog/2019/08/how-to-convert-a-ddr-cabinet-for-stepmania/) here.
 	 - Single pads can be converted to USB with either FSR's or a STAC Board. I will touch more on this in the pad modding section. 
+ - DDRGame pads are not very good, but make a good base for FSR modding. If you can get one for cheap it might be worth picking it up.
+ -  Precision Dance Pads are extremely unreliable and overpriced. These are not worth buying over any other option.
+ - Baila-Tech are notorious for not shipping their pads. Buyer beware! 
  - Other pads like Anton's travel pads are good options too.
- - DDRGame and Precision Dance Pads suck. Buyer beware.
-
-There are also great DIY pad options available which I will cover in a different section.
  
 ## DIY Pads
 Lately, there have been tons of advancements in DIY pad building and people have made affordable pads that are easy to build and perform well.
@@ -71,7 +80,7 @@ If you find yourself getting caught on the big, bulky screws on the dance pad th
 Another, way simpler option is to simply remove your inner brackets/screws and 
 
 ### Using tape for increased sensitivity
-Arvin's guide: https://pastebin.com/5gRirFNQ
+Arvin's guide: [https://pastebin.com/5gRirFNQ](https://pastebin.com/5gRirFNQ)
 
 ### Converting an arcade pad to USB
 
