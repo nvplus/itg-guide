@@ -1,4 +1,5 @@
 
+
 # ITG Resource Guide & FAQ
 
 There are a lot of great informational resources scattered around the ITG community and I wanted to throw them onto one page.
@@ -21,9 +22,15 @@ There are several playstyles of ITG:
 3. Switch to the theme in the "Appeance" section in the Stepmania options
 4. You now have ITG!
 
-**Song resources**
-- [http://itgpacks.com/](http://itgpacks.com/)
-- [https://zenius-i-vanisher.com/v5.2/simfiles.php](https://zenius-i-vanisher.com/v5.2/simfiles.php)
+**Some places to get songs**
+- [The ITG packs release spreadsheet](http://itgpacks.com/) - Tracks all the latest ITG pack releases
+- [ZiV's simfile page](https://zenius-i-vanisher.com/v5.2/simfiles.php) - DDR converts + some others
+
+**Other Themes**
+- [DDR XX Starlight](https://zenius-i-vanisher.com/v5.2/thread?threadid=10433) - Custom a fanmade DDR theme. Uses DDR timing and lifebar mechanics.
+- [Simply Fantasy](https://github.com/jordando/Simply-Love-Tweaks/tree/fantasy) - Final Fantasy theme by Poog
+- [GrooveNights SM5](https://github.com/JoseVarelaP/SM5-GrooveNights) -  Recreation of the classic 3.95 theme in SM5.
+
 
 ## What pad do I buy?
 
@@ -32,9 +39,9 @@ Dom has made a great video listing and reviewing many different pads.
 
 **TL;DR**
  - [L-TEK](https://www.maty-taneczne.pl/)
-	 - Affordable hard pads, great for all around play.
-	 -  Suffers from weak arrow panels and low 125 Hz polling rate, which makes timing more difficult.
-	 - Do the [penny mod](https://youtu.be/hLlBETbFACA) for additional sensitivity.
+	 - Affordable hard pads, great for all around play. Suffers from weak arrow panels.
+	 - The stock PCB only polls at 125 Hz, which makes timing more difficult. You can mitigate this by doing the [Arduino mod](https://www.instructables.com/Modifying-an-L-tek-Dance-Pad-to-Poll-at-1000hz-on-/) to make it poll at 1000 Hz.
+	 - Do the [penny mod](https://youtu.be/hLlBETbFACA) for additional sensitivity, 
 	 - The optional bar is not worth the money, it is wobbly and expensive. See [Roujo's bar building guide](https://roujo.toepi.moe/dance/bar-building-guide) on how to build your own for much cheaper.
  - [StepManiaX](https://stepmaniax.com/)
 	 - These are high-end, arcade-grade pads but are extremely difficult to get due to low supply and high demand.
@@ -43,7 +50,7 @@ Dom has made a great video listing and reviewing many different pads.
  -  Purchasing an arcade machine/pads is usually the best option if you can find one.
 	 - Search Craigslist, arcade buy/sell Facebook groups, Kijiji, etc.
 	 - Cabs can be converted to Stepmania fairly easily, see [JeffreyATW's Guide](https://jeffreyatw.com/blog/2019/08/how-to-convert-a-ddr-cabinet-for-stepmania/) here.
-	 - Single pads can be converted to USB with either FSR's or a STAC Board. I will touch more on this in the pad modding section. 
+	 - Single pads can be converted to USB with either FSR's or a STAC Board.
  - DDRGame pads are not very good, but make a good base for FSR modding. If you can get one for cheap it might be worth picking it up.
  -  Precision Dance Pads are extremely unreliable and overpriced. These are not worth buying over any other option.
  - Baila-Tech are notorious for not shipping their pads. Buyer beware! 
@@ -77,10 +84,19 @@ Over the years, players have found many ways to make their pads perform better u
 If you find yourself getting caught on the big, bulky screws on the dance pad then you can convert your pad to use flatter screws by drilling the panels/brackets in order to fit countersunk ones.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j1RiTrTW0-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Another, way simpler option is to simply remove your inner brackets/screws and 
+Another, simpler option is to simply remove your inner brackets and screws and attach your centre panel using double sided tape. This is incredibly lazy, but doesn't require you to use power tools or buy new screws.
 
-### Using tape for increased sensitivity
-Arvin's guide: [https://pastebin.com/5gRirFNQ](https://pastebin.com/5gRirFNQ)
+### Using tape for increased sensitivity on arcade sensors
+<img src="https://cdn.discordapp.com/attachments/591858300790767616/844251013955453018/103312533_285655112629603_214532263864403830_n.png" height=300px/>
+
+- Arvin's guide: [https://pastebin.com/5gRirFNQ](https://pastebin.com/5gRirFNQ)
+- teejusb's guide: [https://pastebin.com/7Ag3DpKk](https://pastebin.com/7Ag3DpKk "https://pastebin.com/7Ag3DpKk")
+
+**TL;DR**
+- Add gorilla and masking tape above the L bracket for height. 
+- Add an insert below the L bracket for sensitivity. These are typically made by rolling a piece of tape over itself until the desired thickness is achieved.
+- Leave just either the inner sensor or the two side sensors plugged in. (Relative to the centre panel)
+	- Using side sensors typically give much more sensitivity than the inner sensor, which may be desirable for stamina.
 
 ### Converting an arcade pad to USB
 
@@ -100,7 +116,7 @@ Many people have been converting their pads to FSR's, which are analog sensors y
 There is a fair amount of technical knowledge required for FSR modding, and if you don't want to deal with it then I would suggest sticking to arcade sensors.
 
 Text resources:
-- Vincent's [hardware setup guide](https://github.com/vlnguyen/itg-fsr/tree/master/fsr) 
+- VincentITG's [hardware setup guide](https://github.com/vlnguyen/itg-fsr/tree/master/fsr) 
 - teejusb's [software guide and code](https://github.com/teejusb/fsr)
 
 Video resources:
