@@ -1,3 +1,4 @@
+
 # ITG Resource Guide & FAQ
 <img src="https://camo.githubusercontent.com/d4b0b5c3756bd5f6ae15d05992822186e645b75fae70e7bb3846be1a8e864a4d/687474703a2f2f692e696d6775722e636f6d2f6331477a764b582e6a7067" height=400px/>
 
@@ -174,7 +175,7 @@ Other options:
  - [BARR.io](https://winbigarcade.com/product/barr-io-pump-it-up-pad-io/) for Pump or ITG dedicab pads ($37)
 
 ### Converting the pad to use FSR sensors instead of arcade sensors
-Many people have been converting their pads to FSR's, which are analog sensors you can hook up to an Arduino you can connect to your computer. They take some work to get setup properly but have many benefits.
+Many people have been converting their pads to FSR's, which are analog sensors that hook up to an Arduino you can connect to your computer. They take some work to get setup properly but have many benefits.
 
 There is a fair amount of technical knowledge required for FSR modding, and if you don't want to deal with it then I would suggest sticking to arcade sensors.
 
