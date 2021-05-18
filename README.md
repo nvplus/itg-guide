@@ -42,17 +42,58 @@ Lately, there have been tons of advancements in DIY pad building and people have
 
 **4199's Epic Velostat Pad (~$20)**
 
-![!4199's pad](https://i.ytimg.com/vi/h3qDn847Iio/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJ-_obv35i-e43KpktNzxSe1ANHQ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h3qDn847Iio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This is a pad that 4199 made out of parts he had laying around. It's probably awful to play on but hella cheap and [he managed to pass a 20 on it, somehow.](https://youtu.be/9uK49TieQUQ) Watch his on guide on building one [here](https://youtu.be/h3qDn847Iio).
+This is a pad that 4199 made out of parts he had laying around. It's probably awful to play on but hella cheap and [he managed to pass a 20 on it, somehow.
 
 **Plywood FSR Travel Pad (~$100)**
 
-![Bandit's pad](https://i.ytimg.com/vi/y6wGYLE0YI4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpNh0yAZkWAYPRqQobuIOAxCYL0g)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y6wGYLE0YI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Take a piece of plywood, slap some FSR's on it and call it a day. [yutsi](https://www.youtube.com/watch?v=mskaXrFsebA) is a stamina player who uses one of these and is able to 20's on it. Watch Bandit's guide on how to [Build This Pad.](https://youtu.be/y6wGYLE0YI4)
+Take a piece of plywood, slap some FSR's on it and call it a day. [yutsi](https://www.youtube.com/watch?v=mskaXrFsebA) is a stamina player who uses one of these and is able to 20's on it.
 
 **Other pads I don't know much about:**
  - Dom has a [ten-part video series](https://www.youtube.com/playlist?list=PL2vUwLUVuyIy4CD8DEwS7oZ_Y41vyYWWy) on how he built a custom pad using used arcade parts. 
  - [Re:Flex pads](https://reflex.dance/) are an open source, arcade-grade pad created by Brittany.
- - [Mystic pads](https://docs.google.com/document/d/1mb6kjM13b7gjBU2B5ZLw1kvVDJ5bW0qdI1sw27WHaKk/edit?usp=sharing) are also an open source, arcade-grade pad.
+ - [Mystic pads](https://docs.google.com/document/d/1mb6kjM13b7gjBU2B5ZLw1kvVDJ5bW0qdI1sw27WHaKk/edit?usp=sharing) are also an open source, arcade-grade pad made by Mystic aimed to cost around ~$1000.
+
+## Pad Modding for Arcade Pads
+
+Over the years, players have found many ways to make their pads perform better using various methods. Pad modding is an important part of ITG and modern charts are designed with pad modding in mind.
+
+### Countersinking Brackets & Panels
+If you find yourself getting caught on the big, bulky screws on the dance pad then you can convert your pad to use flatter screws by drilling the panels/brackets in order to fit countersunk ones.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j1RiTrTW0-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Another, way simpler option is to simply remove your inner brackets/screws and 
+
+### Using tape for increased sensitivity
+Arvin's guide: https://pastebin.com/5gRirFNQ
+
+### Converting an arcade pad to USB
+
+There are many drop-in solutions for converting your arcade dance pad to USB. The best option in my opinion is TJ's STAC Board, which converts your pad to USB and also keeps light support.
+
+Buy one here for ~$80: https://icedragon.io/stac/
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fDixsWEMUeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Other options:
+ - [GHETT.io](https://winbigarcade.com/product/ghett-io-dance-dance-revolution-pad-io/) for DDR pads ($37)
+ - [BARR.io](https://winbigarcade.com/product/barr-io-pump-it-up-pad-io/) for Pump or ITG dedicab pads ($37)
+
+### Converting the pad to use FSR sensors instead of arcade sensors
+Many people have been converting their pads to FSR's, which are analog sensors you can hook up to an Arduino you can connect to your computer. They take some work to get setup properly but have many benefits.
+
+There is a fair amount of technical knowledge required for FSR modding, and if you don't want to deal with it then I would suggest sticking to arcade sensors.
+
+Text guide written by VincentITG: https://github.com/vlnguyen/itg-fsr
+teejusb's FSR code: https://github.com/teejusb/fsr
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MMHOwjYUisU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uB9hqS_yGLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Shoutouts
+
+ - Lil Yachty
