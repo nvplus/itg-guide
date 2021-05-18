@@ -16,9 +16,9 @@ There are several playstyles of ITG:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4ni-0b6fbCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **TL;DR**
-1. Download and install [Stepmania 5.0.12](https://www.stepmania.com/download/), [Stepmania 5.1 Beta 2](https://www.stepmania.com/forums/news/show/62871), or [ Project Outfox 5.3 Beta](https://projectmoon.dance/)
+1. Download and install [Stepmania 5.0.12](https://www.stepmania.com/download/), [Stepmania 5.1 Beta 2](https://github.com/stepmania/stepmania/releases/tag/v5.1.0-b2), or [ Project Outfox 5.3 Beta](https://projectmoon.dance/)
 2. Get [Simply Love](https://github.com/Simply-Love/Simply-Love-SM5), [Digital Dance](https://github.com/Hayoreo/Digital-Dance), or [Waterfall](https://twitter.com/SteveReen/status/1392057636518973442) and put them in Stepmania's Themes folder
-3. Switch to the theme in the "Appeance" section in the Stepmania options
+3. Switch to the theme in the "Appearance" section in the Stepmania options
 4. You now have ITG!
 
 **Some places to get songs**
@@ -27,7 +27,7 @@ There are several playstyles of ITG:
 
 **Other Themes**
 - [DDR XX Starlight](https://zenius-i-vanisher.com/v5.2/thread?threadid=10433) - Custom a fanmade DDR theme. Uses DDR timing and lifebar mechanics.
-- [Simply Fantasy](https://github.com/jordando/Simply-Love-Tweaks/tree/fantasy) - Final Fantasy theme by Poog
+- [Simply Fantasy](https://github.com/jordando/Simply-Love-Tweaks/tree/fantasy) - A Simply Love mod by Poog which makes it look like the older Final Fantasy games. Only works on Simply Love 4.91 or below.
 - [GrooveNights SM5](https://github.com/JoseVarelaP/SM5-GrooveNights) -  Recreation of the classic 3.95 theme in SM5.
 
 
@@ -44,7 +44,7 @@ Dom has made a great video listing and reviewing many different pads.
 	 - The optional bar is not worth the money, it is wobbly and expensive. See [Roujo's bar building guide](https://roujo.toepi.moe/dance/bar-building-guide) on how to build your own for much cheaper.
  - [StepManiaX](https://stepmaniax.com/)
 	 - These are high-end, arcade-grade pads but are extremely difficult to get due to low supply and high demand.
-	 - If you play stamina, you might run into issues with triggering accidental decents/way offs ("the boys") due to the square arrow panels.
+	 - If you play stamina, you might run into issues with triggering accidental decents/way offs due to the SMX configuration software having little adjustability, paired with the square-shaped arrow panels.
 	 - These pads originally came with load cell sensors, which were unreliable and prone to breakage. Fourth generation and newer SMX pads use FSR sensors, which are much better than the load cells.
  -  Purchasing an arcade machine/pads is usually the best option if you can find one.
 	 - Search Craigslist, arcade buy/sell Facebook groups, Kijiji, etc.
@@ -88,6 +88,7 @@ Another, simpler option is to simply remove your inner brackets and screws and a
 ### Using tape for increased sensitivity on arcade sensors
 <img src="https://cdn.discordapp.com/attachments/591858300790767616/844251013955453018/103312533_285655112629603_214532263864403830_n.png" height=300px/>
 
+- Bran's guide: [http://aaronin.jp/boards/viewtopic.php?t=9363](http://aaronin.jp/boards/viewtopic.php?t=9363)
 - Arvin's guide: [https://pastebin.com/5gRirFNQ](https://pastebin.com/5gRirFNQ)
 - teejusb's guide: [https://pastebin.com/7Ag3DpKk](https://pastebin.com/7Ag3DpKk "https://pastebin.com/7Ag3DpKk")
 
@@ -123,6 +124,15 @@ Video resources:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uB9hqS_yGLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Shoutouts
+## Various other questions
+#### Why do people turn off the boys? Why do they have to be turned on in ECS mid/upper?
+Jeremy made a great video explaining this.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lJNuRSLOJRc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+TL;DR:
+- Turning off decents and way offs trivializes the lifebar by removing the "mash prevention" windows.
+- If you're going for score, this isn't a big deal because your lifebar isn't relevant and the boys are more likely to be triggered by a malfunctioning pad.
+- If you're trying to pass the hardest songs you can, the boys are likely going to be triggered by player error such as bad form or timing. Keep the boys on retains the inherent mash prevention mechanics of the game.
+
+## Shoutouts
  - Lil Yachty
