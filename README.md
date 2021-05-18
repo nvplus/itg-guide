@@ -58,6 +58,7 @@ Take a piece of plywood, slap some FSR's on it and call it a day. [yutsi](https:
 
 Watch Bandit's guide on how to [Build This Pad.](https://youtu.be/y6wGYLE0YI4)
 
-**Other pads I don't know much about:**
+**Other pads I don't know much about:*
+ - Dom has a [ten-part video series](https://www.youtube.com/playlist?list=PL2vUwLUVuyIy4CD8DEwS7oZ_Y41vyYWWy) on how he built a custom pad using used arcade parts. 
  - [Re:Flex pads](https://reflex.dance/) are an open source, arcade-grade pad created by Brittany.
  - [Mystic pads](https://docs.google.com/document/d/1mb6kjM13b7gjBU2B5ZLw1kvVDJ5bW0qdI1sw27WHaKk/edit?usp=sharing) are also an open source, arcade-grade pad.
