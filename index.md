@@ -56,13 +56,13 @@ Lately, there have been tons of advancements in DIY pad building and people have
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h3qDn847Iio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This is a pad that 4199 made out of parts he had laying around. It's probably awful to play on but hella cheap and [he managed to pass a 20 on it, somehow.
+This is a pad that 4199 made out of parts he had laying around. It's probably awful to play on but hella cheap and [he managed to pass a 20 on it, somehow.](https://youtu.be/9uK49TieQUQ)
 
 **Plywood FSR Travel Pad (~$100)**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y6wGYLE0YI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Take a piece of plywood, slap some FSR's on it and call it a day. [yutsi](https://www.youtube.com/watch?v=mskaXrFsebA) is a stamina player who uses one of these and is able to 20's on it.
+Take a piece of plywood, slap some FSR's on it and call it a day. [yutsi](https://www.youtube.com/watch?v=mskaXrFsebA) is a stamina player who uses one of these and is able to pass 20's on it.
 
 **Other pads I don't know much about:**
  - Dom has a [ten-part video series](https://www.youtube.com/playlist?list=PL2vUwLUVuyIy4CD8DEwS7oZ_Y41vyYWWy) on how he built a custom pad using used arcade parts. 
