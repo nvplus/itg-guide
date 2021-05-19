@@ -11,7 +11,7 @@ Few play the original ITG arcade games anymore, and the game has mostly moved to
 ## The different playstyles of ITG
 
 ### Tech/Fantastic Attack (FA)
- FA players try to get scores on charts that feature technical patterns like crossovers, brackets, and footswitches. It's very similar to DDR, but has unique patterns that Konami seldom puts in their charts.
+ FA players try to get perfect scores on charts that feature technical patterns like crossovers, brackets, and footswitches. It's very similar to DDR, but has unique patterns that Konami seldom puts in their charts.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4TYDEJOr6uI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -171,6 +171,7 @@ Buy one here for ~$80: [https://icedragon.io/stac/](https://icedragon.io/stac/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fDixsWEMUeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Other options:
+ - [PAD2PC](https://www.etsy.com/listing/944259318/pad2pc-an-arcade-pad-pc-io-with-light?fbclid=IwAR1gwW7xnfIF3DI4xnlA7dozP8c1-euT_Lm4_1Rw97E6VLyJdSiZkzjSioY) an alternative to the STAC board that provides the same features ($80)
  - [GHETT.io](https://winbigarcade.com/product/ghett-io-dance-dance-revolution-pad-io/) for DDR pads ($37)
  - [BARR.io](https://winbigarcade.com/product/barr-io-pump-it-up-pad-io/) for Pump or ITG dedicab pads ($37)
 
