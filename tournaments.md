@@ -1,5 +1,5 @@
 ---
-title: Installing
+title: Events
 has_children: false
 nav_order: 3
 ---
