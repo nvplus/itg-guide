@@ -15,13 +15,13 @@ Right-facing: LDUR, RUDL
 
 Left-facing: LUDR, RDUL
 
-*The origin of the name is unknown, but it is said that if one were to put a candle in the middle of the platform, that candle would be knocked over.*
-
-<img src="https://i.imgur.com/rAwaC4m.png" width=200px />
-
 **Candle** 
 
 *Any pattern that involves moving one foot across the centre panel from the up/down arrow to hit the down/up arrow.*
+
+*The origin of the name is unknown, but it is said that if one were to put a candle in the middle of the platform, that candle would be knocked over.*
+
+<img src="https://i.imgur.com/rAwaC4m.png" width=200px />
 
 **Triangle**
 
