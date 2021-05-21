@@ -54,7 +54,9 @@ Left-facing: LUDUL, RDUDR
 
 
 **Sweep**
+
 *A staircase that "sweeps" back in the direction it started from.*
+
 <img src="https://i.imgur.com/X0LL3BI.png" width=200px/>
 
 # Advanced Patterns
