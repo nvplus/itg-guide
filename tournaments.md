@@ -9,7 +9,7 @@ A Stepmania community focused on stamina and footspeed playstyles.
 - https://staminanation.com/
 
 ## International Timing Collective
-A StepMania / In the Groove community focused on 4-panel timing accuracy!
+A Stepmania / In the Groove community focused on 4-panel timing accuracy!
 - https://discord.com/invite/t6SfWeh2kV
 
 # Tournaments/Events
