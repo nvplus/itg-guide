@@ -1,8 +1,16 @@
 ---
-title: Events
+title: Events / Communities
 has_children: false
 nav_order: 3
 ---
+# Communities
+## Stamina Nation
+A Stepmania community focused on stamina and footspeed playstyles.
+- https://staminanation.com/
+
+## International Timing Collective
+A StepMania / In the Groove community focused on 4-panel timing accuracy!
+- https://discord.com/invite/t6SfWeh2kV
 
 # Tournaments/Events
 There are various tournaments and events run year-round in the ITG community where you can compete with others around the world.
@@ -21,16 +29,6 @@ An annual stamina event where players can earn EXP, unlock new songs, and buy re
 [<img src="https://ecs95.groovestats.com/img/logo_95.png" height=70px/>](https://ecs95.groovestats.com/)
 
 A sister event to ECS that happens after the mainline tournament and before Stamina RPG. Players can form teams of up to three people and compete in a similar format to the mainline ECS events.
-
-### East Coast FA (ECFA)
-[<img src="https://ddrcommunity.com/wp-content/uploads/2019/05/ECFA6-bn.png" height=100px/>](https://ddrcommunity.com/events/east-coast-fa-6/)
-
-An annual FA/tech tournament held at RiOdO's house. 
-
-### Everybody Can Fantastic Attack (ECFA)
-[<img src="https://lh3.googleusercontent.com/5lc3COK5ONZzNU1U2_5kjEdi1NTDQ5TtfP9eXSDCR7uZ06w1kzh4653txliQN0q0gxcQRnX5isE1Ozlw0Q5fP0tQ2KO9JOg9TH21XbQFzNYRmVqxlzSUuwbYPDjCn5l_3A=w1280" height=100px/>](https://sites.google.com/view/ecfa-2021/)
-
-An online accuracy event featuring FA/tech charts. Shares an acronym with East Coast FA, its sister tournament. Also acts as a qualifier for East Coast FA.
 
 ### Girls Coast Stamina
 [<img src="https://pbs.twimg.com/media/EUKIj1wXsAETv8W?format=jpg&name=small" height=100px/>](https://twitter.com/thegalagaship/status/1243706599253987333)
